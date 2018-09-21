@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.25)  17 SEP 2018 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.25)  21 SEP 2018 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1407,10 +1407,10 @@ italian.ldf    on input line 55.
 <img/ConceptualModelContext.png, id=237, 476.7411pt x 250.7769pt>
 File: img/ConceptualModelContext.png Graphic file (type png)
 <use img/ConceptualModelContext.png>
-Package pdftex.def Info: img/ConceptualModelContext.png  used on input line 155
-. on input line 155.
+Package pdftex.def Info: img/ConceptualModelContext.png  used on input line 154
+. on input line 154.
 Package pdftex.def Info: Requested size: 307.28987pt x 161.64844pt on input lin
-e 155.
+e 154.
  [13
 
  <./img/ConceptualModelContext.png>] [14
@@ -1422,17 +1422,17 @@ e 155.
 File: img/ConceptualModelArchitectureDescription.png Graphic file (type png)
 <use img/ConceptualModelArchitectureDescription.png>
 Package pdftex.def Info: img/ConceptualModelArchitectureDescription.png  used o
-n input line 182. on input line 182.
+n input line 181. on input line 181.
 Package pdftex.def Info: Requested size: 307.28987pt x 219.49687pt on input lin
-e 182.
+e 181.
 
-Overfull \vbox (5.6834pt too high) detected at line 182
+Overfull \vbox (5.6834pt too high) detected at line 181
  []
 
 [16
 
  <./img/ConceptualModelArchitectureDescription.png>]
-Overfull \vbox (3.93652pt too high) detected at line 194
+Overfull \vbox (3.93652pt too high) detected at line 193
  []
 
 [17
@@ -1446,11 +1446,11 @@ File: img/ConceptualModelArchitectureDescriptionElements.png Graphic file (type
  png)
 <use img/ConceptualModelArchitectureDescriptionElements.png>
 Package pdftex.def Info: img/ConceptualModelArchitectureDescriptionElements.png
-  used on input line 210. on input line 210.
+  used on input line 209. on input line 209.
 Package pdftex.def Info: Requested size: 307.28987pt x 217.64113pt on input lin
-e 210.
+e 209.
 
-Overfull \vbox (3.82765pt too high) detected at line 210
+Overfull \vbox (3.82765pt too high) detected at line 209
  []
 
 [19
@@ -1464,9 +1464,9 @@ Overfull \vbox (3.82765pt too high) detected at line 210
 File: img/ConceptualModelRationale.png Graphic file (type png)
 <use img/ConceptualModelRationale.png>
 Package pdftex.def Info: img/ConceptualModelRationale.png  used on input line 2
-36. on input line 236.
+35. on input line 235.
 Package pdftex.def Info: Requested size: 307.28987pt x 167.90968pt on input lin
-e 236.
+e 235.
 
 [22
 
@@ -1479,19 +1479,19 @@ e 236.
 File: img/ConceptualModelFramework.png Graphic file (type png)
 <use img/ConceptualModelFramework.png>
 Package pdftex.def Info: img/ConceptualModelFramework.png  used on input line 2
-60. on input line 260.
+59. on input line 259.
 Package pdftex.def Info: Requested size: 307.28987pt x 194.86899pt on input lin
-e 260.
+e 259.
  [25
 
  <./img/ConceptualModelFramework.png>]
 <img/ConceptualModelADL.png, id=424, 443.4969pt x 173.448pt>
 File: img/ConceptualModelADL.png Graphic file (type png)
 <use img/ConceptualModelADL.png>
-Package pdftex.def Info: img/ConceptualModelADL.png  used on input line 268. on
- input line 268.
+Package pdftex.def Info: img/ConceptualModelADL.png  used on input line 267. on
+ input line 267.
 Package pdftex.def Info: Requested size: 307.28987pt x 120.18474pt on input lin
-e 268.
+e 267.
  [26
 
  <./img/ConceptualModelADL.png>] [27
@@ -1513,35 +1513,35 @@ e 268.
 <img/system-of-systems.jpg, id=529, 181.1568pt x 108.405pt>
 File: img/system-of-systems.jpg Graphic file (type jpg)
 <use img/system-of-systems.jpg>
-Package pdftex.def Info: img/system-of-systems.jpg  used on input line 391. on 
-input line 391.
+Package pdftex.def Info: img/system-of-systems.jpg  used on input line 390. on 
+input line 390.
 Package pdftex.def Info: Requested size: 307.28987pt x 183.88243pt on input lin
-e 391.
+e 390.
 
-Overfull \vbox (4.06895pt too high) detected at line 391
+Overfull \vbox (4.06895pt too high) detected at line 390
  []
 
 [34
 
  <./img/system-of-systems.jpg>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 411.
+LaTeX Font Info:    Try loading font information for U+msa on input line 410.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 411.
+LaTeX Font Info:    Try loading font information for U+msb on input line 410.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+esint on input line 411.
+LaTeX Font Info:    Try loading font information for U+esint on input line 410.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 411.
+line 410.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1583,7 +1583,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Presentazione.pdf (35 pages, 895605 bytes).
+Output written on Presentazione.pdf (35 pages, 895515 bytes).
 PDF statistics:
  603 PDF objects out of 1000 (max. 8388607)
  520 compressed objects within 6 object streams
