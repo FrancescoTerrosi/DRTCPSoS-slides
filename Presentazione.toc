@@ -7,6 +7,6 @@
 \beamer@sectionintoc {2}{Description of the Standard}{8}{0}{2}
 \beamer@subsectionintoc {2}{1}{Introduction}{9}{0}{2}
 \beamer@subsectionintoc {2}{2}{Conceptual Model}{10}{0}{2}
-\beamer@subsectionintoc {2}{3}{Architecture Description and Viewpoints}{27}{0}{2}
-\beamer@sectionintoc {3}{Conclusion}{33}{0}{3}
-\beamer@sectionintoc {4}{Bibliography}{35}{0}{4}
+\beamer@subsectionintoc {2}{3}{Architecture Description and Viewpoints}{28}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{34}{0}{3}
+\beamer@sectionintoc {4}{Bibliography}{36}{0}{4}
