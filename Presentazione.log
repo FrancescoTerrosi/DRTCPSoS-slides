@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.25)  22 SEP 2018 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.25)  24 SEP 2018 00:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1570,10 +1570,10 @@ Package rerunfilecheck Info: File `Presentazione.out' has not changed.
 (rerunfilecheck)             Checksum: AE0CCB0902F07C6B6AA5938F56AA2D84;630.
  ) 
 Here is how much of TeX's memory you used:
- 24727 strings out of 492990
- 496650 string characters out of 6135005
- 614803 words of memory out of 5000000
- 27624 multiletter control sequences out of 15000+600000
+ 24723 strings out of 492990
+ 496604 string characters out of 6135005
+ 614833 words of memory out of 5000000
+ 27620 multiletter control sequences out of 15000+600000
  12026 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,67p,780b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1585,7 +1585,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Presentazione.pdf (36 pages, 896653 bytes).
+Output written on Presentazione.pdf (36 pages, 896524 bytes).
 PDF statistics:
  616 PDF objects out of 1000 (max. 8388607)
  532 compressed objects within 6 object streams
